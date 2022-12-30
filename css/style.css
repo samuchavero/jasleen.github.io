@@ -391,7 +391,7 @@ ul.btn li:last-child {
      align-items: center;
      position: relative;
 }
-.banner_main::before {
+.baner_main::before {
      position: absolute;
      content: "";
      width:50px; 
@@ -401,7 +401,7 @@ ul.btn li:last-child {
      bottom: -38px;
      right: 38px;
 }
-.banner_main::after {
+.baner_main::after {
      position: absolute;
      content: "";
      width:50px; 
